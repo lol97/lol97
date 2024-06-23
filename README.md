@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lol97
-- 👀 I’m interested in Java, Web, Data, Robotics, and uhmmm politics ;)
+- 👀 I’m interested in Java, Web, Data, Robotics, Finance, and uhmmm politics ;)
 - 🌱 I’m currently learning Java, Spring framework and software arch
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on OpenSource project
 - 📫 How to reach me : email to haisaori@gmail.com
 
 <!---
